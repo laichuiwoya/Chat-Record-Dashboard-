@@ -1,0 +1,9 @@
+{
+  "providers": {
+    "tencent": {
+      "engine": "16k_zh",
+      "secret_id_env": "TENCENTCLOUD_SECRET_ID",
+      "secret_key_env": "TENCENTCLOUD_SECRET_KEY"
+    }
+  }
+}
